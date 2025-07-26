@@ -1,0 +1,8 @@
+Flask
+torch
+transformers
+faiss-cpu
+Pillow
+google-generativeai
+tqdm
+numpy
